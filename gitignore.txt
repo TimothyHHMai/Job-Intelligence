@@ -1,9 +1,4 @@
-# --- Python & System Garbage ---
-__pycache__/
-*.py[cod]
-*$py.class
+# --- Checkpoints ---
 .ipynb_checkpoints/
 checkpoint.md
 checkpoint.ipynb
-.DS_Store
-Thumbs.db
