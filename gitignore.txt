@@ -2,6 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.ipynb_checkpoints/
+.ipynb_checkpoint/
 .DS_Store
 Thumbs.db
