@@ -5,6 +5,9 @@
 - Datasets
 - Repository Structure
 
+## Live App
+- https://jobintelligence.streamlit.app/
+
 ## Overview
 
 The purpose of this analysis is to recommend people to jobs based on their resumes. The datasets used are a resume dataset with sample resumes and a job posting dataset. This repository contains notebooks for data preprocessing, eda, modeling, and an app with the goal of recommending jobs.
